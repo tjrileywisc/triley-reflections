@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- Creating a repository only sets up the directory to be ready to accept submissions. If it's not done, the files are not in any kind of source control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- The staging area is one small step up from the working directory. It directly specifies what you're planning on adding to source control. 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+- After making a change, immediately add the file to the staging area.
